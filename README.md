@@ -11,7 +11,7 @@ If you own a computer it is vital that you are aware of the potential threats th
 
 A [denial-of-service attack](https://en.wikipedia.org/wiki/Denial-of-service_attack) is any type of attack in which an attacker(hacker) attempts to prevent a legitimate user from accessing a service or shut down a machine or network. The attacker will usually do this by sending a "flood" of messages asking the network or server to authenticate requests that have invalid return addresses. This results in a crash that can affect services such as email, websites, online accounts (like banking), and other services that rely on the affected computer or network. DoS attacks can cost organization precious time and money as a result of their services being inaccessible. 
 
-##### Protection
+##### *Protection*
 
 1. Recognize the signs of an attack: 
   * The best defense against a DoS attack is the ability to recognize it early. Invest in the right tech, expertise and training and this will help you to decipher or use an anti-DoS service.
@@ -32,7 +32,7 @@ Types of Malware
   * **Trojan Horse**: a malicious program that is designed to appear as a legitimate program; once activated following installation, Trojans can execute their malicious functions
   * **Spyware**: a kind of malware that is designed to collect information and data on users and observe their activity without users' knowledge
  
-##### Protection
+##### *Protection*
 
 1. Use of anti-virus software and firewall
 
@@ -44,7 +44,28 @@ Types of Malware
 
 ### Phishing
 
+[Phishing](https://en.wikipedia.org/wiki/Phishing) attacks attempt to gain sensitive, confidential information such as usernames, passwords, credit card information, network credentials, and more. By posing as a legitimate individual or institution via phone or email, cyber attackers use social engineering to manipulate victims into performing specific actions—like clicking on a malicious link or attachment—or willfully divulging confidential information.
+
+Types of Phishing Attacks
+
+* **Spear Fishing**: Spear phishing email messages won’t look as random as more general phishing attempts. Attackers will often gather information about their targets to fill emails with more authentic context. Some attackers even hijack business email communications and create highly customized messages.
+* **Clone phishing**: Clone phishing is a type of phishing attack whereby a legitimate, and previously delivered, email containing an attachment or link has had its content and recipient address(es) taken and used to create an almost identical or cloned email.
+* **Whaling**: Whaling specifically targets high profile and/or senior executives in an organization. The content of a whaling attempt will often present as a legal communication or other high-level executive business.
+
+##### *Protection*
+
+1. The best way to spot phishing emails is to understand the different types. Click this [video](https://www.youtube.com/watch?v=MFUW6WVtgkg) to get a good look at a real live phishing website.
+
+2. Keep your software updated
+
+3. Use a password manager with auto-fill
+
+4. Verify Emails with Senders
+
+5. Open Suspicious Documents in Google Drive
 
 ### Spam
+
+[Spam]()
 
 
