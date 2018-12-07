@@ -13,7 +13,7 @@ This tutorial is aimed at anyone that frequently uses internet because no matter
 
 A [denial-of-service attack](https://en.wikipedia.org/wiki/Denial-of-service_attack) is any type of attack in which an attacker(hacker) attempts to prevent a legitimate user from accessing a service or shut down a machine or network. The attacker will usually do this by sending a "flood" of messages asking the network or server to authenticate requests that have invalid return addresses. This results in a crash that can affect services such as email, websites, online accounts (like banking), and other services that rely on the affected computer or network. DoS attacks can cost organization precious time and money as a result of their services being inaccessible. 
 
-##### *Protection*
+``` ##### *Protection*
 
 1. Recognize the signs of an attack: 
   * The best defense against a DoS attack is the ability to recognize it early. Invest in the right tech, expertise and training and this will help you to decipher or use an anti-DoS service.
@@ -22,8 +22,8 @@ A [denial-of-service attack](https://en.wikipedia.org/wiki/Denial-of-service_att
   * A good service can detect abnormal traffic flows and redirect traffic away from your network. The DoS traffic is then filtered out, while clean traffic is passed on to your network.
   
 3. Create a disaster recovery plan to ensure successful and efficient communication, mitigation, and recovery in the event of an attack.
- 
 
+```
 ### Malware
 
 [Malware](https://en.wikipedia.org/wiki/Malware), or malicious software, is any program or file that is harmful to a computer user. Malware includes computer viruses, worms, Trojan horses and spyware. These malicious programs can perform a variety of functions, including stealing, encrypting or deleting sensitive data, altering or hijacking core computing functions and monitoring users' computer activity without their permission.
