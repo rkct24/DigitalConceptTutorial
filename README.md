@@ -34,7 +34,7 @@ Types of Malware
  
 ##### *Protection*
 
-1. Use of anti-virus software and firewall
+1. Use of [anti-virus software](https://us.norton.com/norton-360-antivirus-plus?inid=hho_nortoncom_home_hero11_norton-360-antivirus-plus) and firewall
 
 2. Make sure to continuously update all your software.
  * As these updates may include security updates to protect against the various types of Malware. 
