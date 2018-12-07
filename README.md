@@ -1,7 +1,9 @@
 # Cyber Security Threats and Prevention
-## Author: Ryan Cobb
+## By Ryan Cobb
 
-If you own a computer it is vital that you are aware of the potential threats that can harm your computer and that you know how to properly protect yourself from them. This tutorial is aimed at doing just that, by providing brief information on those threats and the basic steps on how to secure your computer.  
+If you own a computer it is vital that you are aware of the potential threats that can harm your computer and that you know how to properly protect yourself from them. This tutorial is aimed at doing just that, by providing brief information on those threats and the basic steps on how to secure your computer. 
+
+This tutorial is aimed at anyone that frequently uses internet because no matter how young or old you are, using the internet puts you at risk of getting attacked by an abundance of threats.
 
 ![image](https://www.guru99.com/images/EthicalHacking/img7.jpg)
 
