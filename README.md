@@ -77,3 +77,11 @@ What Spam Can Do To Your Computer
 
 ##### *Protection*
 
+1. Don't post your address on a publicly searchable web page if you can avoid it. (It's good practice for departments and organizations to use functional rather than personal addresses.)
+
+2. Only give out your email address to reputable organizations with good privacy policies (yes, you should read the privacy policies) 
+
+3. For all other sites, if you must give out an email address, use one you don't care about (a free one from a service like hotmail for example).
+
+4. Don't ever reply to spam or use the "option" to unsubscribe -- that just tells the spammer they have found a real person willing to read what they are sending. 
+
