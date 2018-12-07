@@ -9,7 +9,9 @@ If you own a computer it is vital that you are aware of the potential threats th
 
 #### Denial of Service Attack (DoS Attack)
 
-A [denial-of-service attack](https://en.wikipedia.org/wiki/Denial-of-service_attack) is any type of attack in which an attacker(hacker) attempts to prevent a legitimate user from accessing a service. The attacker will usually do this by sending a "flood" of messages asking the network or server to authenticate requests that have invalid return addresses.
+A [denial-of-service attack](https://en.wikipedia.org/wiki/Denial-of-service_attack) is any type of attack in which an attacker(hacker) attempts to prevent a legitimate user from accessing a service or shut down a machine or network. The attacker will usually do this by sending a "flood" of messages asking the network or server to authenticate requests that have invalid return addresses. This results in a crash that can affect services such as email, websites, online accounts (like banking), and other services that rely on the affected computer or network. DoS attacks can cost organization precious time and money as a result of their services being inaccessible. 
+
+##### Protection
 
 #### Malware
 
