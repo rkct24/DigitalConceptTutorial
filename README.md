@@ -27,12 +27,23 @@ A [denial-of-service attack](https://en.wikipedia.org/wiki/Denial-of-service_att
 [Malware](https://en.wikipedia.org/wiki/Malware), or malicious software, is any program or file that is harmful to a computer user. Malware includes computer viruses, worms, Trojan horses and spyware. These malicious programs can perform a variety of functions, including stealing, encrypting or deleting sensitive data, altering or hijacking core computing functions and monitoring users' computer activity without their permission.
 
 Types of Malware 
-  * Virus: most common type of malware, and it's defined as a malicious program that can execute itself and spreads by infecting other programs or files
-  * Worm: can self-replicate without a host program; worms typically spread without any human interaction or directives from the malware authors
-  * Trojan Horse: a malicious program that is designed to appear as a legitimate program; once activated following installation, Trojans can execute their malicious functions
-  * Spyware: a kind of malware that is designed to collect information and data on users and observe their activity without users' knowledge
-  
+  * **Virus**: most common type of malware, and it's defined as a malicious program that can execute itself and spreads by infecting other programs or files
+  * **Worm**: can self-replicate without a host program; worms typically spread without any human interaction or directives from the malware authors
+  * **Trojan Horse**: a malicious program that is designed to appear as a legitimate program; once activated following installation, Trojans can execute their malicious functions
+  * **Spyware**: a kind of malware that is designed to collect information and data on users and observe their activity without users' knowledge
+ 
+##### Protection
+
+1. Use of anti-virus software and firewall
+
+2. Make sure to continuously update all your software.
+ * As these updates may include security updates to protect against the various types of Malware. 
+
+3. Avoidance of certain Operating Systems. 
+ * Microsoft Windows hands down is the most hacked and infected Operating System known to man. The upkeep of security updates is especially critical when surfing on a Windows PC.The use of the UNIX or Linux Operating System, for example, offers superior protection against Malware compared to Microsoft Windows. Ironically, UNIX and Linux are available by freeware and/or shareware.Tiger and Safari are examples of the most secure operating systems available to home users.
+
 ### Phishing
+
 
 ### Spam
 
