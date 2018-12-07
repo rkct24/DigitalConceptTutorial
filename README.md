@@ -66,6 +66,13 @@ Types of Phishing Attacks
 
 ### Spam
 
-[Spam]()
+[Spam](https://en.wikipedia.org/wiki/Spamming) is one of the more common methods of both sending information out and collecting it from unsuspecting people. It is the mass distribution of unsolicited messages, advertising or pornography to addresses which can be easily found on the Internet through things like social networking sites, company websites and personal blogs. 
+
+What it can do
+
+* Annoy you with unwanted junk mail.
+* Create a burden for communications service providers and businesses to filter electronic messages.
+* Phish for your information by tricking you into following links or entering details with too-good-to-be-true offers and promotions.
+* Provide a vehicle for malware, scams, fraud and threats to your privacy.
 
 
